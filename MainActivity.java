@@ -1,4 +1,4 @@
-package com.prajnakuberappa.myapplication;
+package com.prajnakuberappa.clickdemo;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -6,8 +6,9 @@ import android.util.Log;
 import android.view.View;
 
 public class MainActivity extends AppCompatActivity {
-    public void clickFunction(View view) {
-        Log.i("Info", "Button Pressed!");
+
+    public void buttonClicked(View view){
+        Log.i("Info","The button was clicked!");
     }
 
     @Override
