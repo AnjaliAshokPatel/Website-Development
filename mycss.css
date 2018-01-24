@@ -1,0 +1,39 @@
+body
+{
+	background-color:black;
+	font-family:Times new Roman;Verdana;Arial;
+	font-size:11px;
+	color:white;
+}
+img.g
+{
+	width:145px;
+	 height:145px;
+	border:#03036e solid;
+}
+img.p
+{
+	 height:200px;
+	 width:800px;
+}
+td.tw
+{
+	width:20%;
+	background-color:#03036e;
+}	
+td
+{
+	vertical-align:top;
+}
+td.a
+{
+	vertical-align:middle;
+}
+a:link,a:visited
+{
+	color:green;
+}
+a:hover
+{
+	color:purple;
+}
